@@ -4,4 +4,15 @@
 (d) cd folder_name => to move inside of particular folder.
 (e) cd .. => to move backward.
 (f) mkdir folder_name => to make the folder.
-(g) move folder_name path_of_folder i.e move git_commands D:\coding => to move any folder inside of other folder 
+(g) move folder_name path_of_folder i.e move git_commands D:\coding => to move 
+(h) help color => to see the color option.
+(i) color 1 / color A => to change the color of cmd.
+(h) help prompt => to see the commands to change things like titile, prompt etc.
+(i) title any_name => to change the heading / title of cmd.
+(j) prompt "any_name"$G => to change the name of the path / directory, artificially.
+(k) Attrib +h +s +r folder2 => to hide folder2.
+(l) Attrib -h -s -r folder2 => to unhide folder2.
+(k) dir | clip => to copy the output of dir command in clip board
+(m) F7 => to see the history
+(n) md aux\ => to make the folder named as aux which isn't allowed by windows os to make as they reserver some name like : aux, con for themself.
+(o) wmic product get name => to list all of the installed files, software, apps in cmd.
