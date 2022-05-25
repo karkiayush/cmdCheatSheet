@@ -1,0 +1,6 @@
+D:/d: or the respecitve drive => to go to particular folder.
+dir => to list all of the present directory.
+cd => to know the current directory.
+cd folder_name => to move inside of particular folder.
+cd .. => to move backward.
+mkdir folder_name => to make the folder.
