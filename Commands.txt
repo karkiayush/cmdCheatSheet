@@ -17,3 +17,5 @@
 (n) md aux\ => to make the folder named as aux which isn't allowed by windows os to make as they reserver some name like : aux, con for themself.
 (o) wmic product get name => to list all of the installed files, software, apps in cmd.
 (p) rename old_name new_name => to rename the file 
+(q) rename old_name new_name => to rename the folder 
+(r) rd folder name => to delete the folder 
