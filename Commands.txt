@@ -19,3 +19,4 @@
 (p) rename old_name new_name => to rename the file 
 (q) rename old_name new_name => to rename the folder 
 (r) rd folder name => to delete the folder 
+(s) move folder name d:\coding => to move one folder to main folder named coding located in d: drive 
